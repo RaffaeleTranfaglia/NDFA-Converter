@@ -1,6 +1,9 @@
 # NDFA-Converter
-## Description
 Tool for converting a non deterministic finite automaton to a deterministic one.
+## Installation
+
+## Usage
+### Input
 The non deterministic automaton (**N**) has to be stored in a file using the following representation:
 1. **s** is the number of symbols and **k** is the number of states
 2. States' names go from **0** to **k-1**.
