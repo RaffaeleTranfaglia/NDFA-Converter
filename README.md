@@ -21,7 +21,7 @@ To redirect the output in a text file:
 ```
   ./part1 <input_file> > <file_name>
 ```
-Below are showed the format of the input file and the output (displayed in standard output).  
+Below are showed the format of the input file and the output (displayed in standard output by default).  
 
 ### Input
 The non deterministic automaton (**N**) has to be stored in a file using the following representation:
