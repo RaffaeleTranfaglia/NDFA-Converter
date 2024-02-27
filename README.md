@@ -41,7 +41,8 @@ The representation of the deterministic automaton **D** resulting from Subset co
 2. The row at index **h+1** contains the list of final states of **D**.
 3. The subsequent **h*s** rows contain the definition of the transition function as for the input (obviously, since D is deterministic, the non empty rows contain only one state).
 
-Deterministic finite automaton obtained from the previous example (with its representation in `examples/`):
+Deterministic finite automaton obtained from the previous example (with its representation in `examples/expected_output_2.txt`):
+![dfa.png](/footage/dfa.png)
 
 
 ## Credits
